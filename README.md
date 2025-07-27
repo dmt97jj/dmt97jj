@@ -13,3 +13,15 @@ Entusiasta del aprendisaje, siempre emocionado y dispuesto a seguir aprendiendo 
 * :people_hugging: apasionado por el trabajo en equipo.
 * :alarm_clock: siempre listo para los retos y el trabajo bajo presión
 * :motorway: Siempre listo para seguir aprendiendo.
+
+---
+
+### :hammer_and_wrench: Lenguajes y herramientas :
+
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
