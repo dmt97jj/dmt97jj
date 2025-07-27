@@ -28,9 +28,7 @@ Entusiasta del aprendisaje, siempre emocionado y dispuesto a seguir aprendiendo 
  <img decoding="async" src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="postgresql"/>
  <img decoding="async" src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="jira"/>
  <img decoding="async" src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="androidstudio"/>
-
+ <img decoding="async" src="https://img.shields.io/badge/ingles_intermedio-4169E1?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="ingles_intermedio"/>
 ---
 
-### :hammer_and_wrench: Lenguajes y herramientas :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmt97jj&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
