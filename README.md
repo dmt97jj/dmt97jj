@@ -26,3 +26,5 @@ Entusiasta del aprendisaje, siempre emocionado y dispuesto a seguir aprendiendo 
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
  <img decoding="async" src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="postgresql"/>
+ <img decoding="async" src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="jira"/>
+ <img decoding="async" src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="androidstudio"/>
